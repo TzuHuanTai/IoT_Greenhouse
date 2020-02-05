@@ -10,4 +10,6 @@
 ![Alt text](https://github.com/TzyHuan/IoT_Greenhouse/blob/master/introduction/Slide4.png)
 ![Alt text](https://github.com/TzyHuan/IoT_Greenhouse/blob/master/introduction/Slide5.png)
 ![Alt text](https://github.com/TzyHuan/IoT_Greenhouse/blob/master/introduction/Slide6.png)
+![Alt text](https://github.com/TzyHuan/IoT_Greenhouse/blob/master/introduction/Slide6-1.png)
+![Alt text](https://github.com/TzyHuan/IoT_Greenhouse/blob/master/introduction/Slide6-2.png)
 ![Alt text](https://github.com/TzyHuan/IoT_Greenhouse/blob/master/introduction/Slide7.png)
